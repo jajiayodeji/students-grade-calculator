@@ -10,3 +10,4 @@ score4 = int(score4)
 score5 = input(Enter score 5: ")
 score5 = int(score5)
 average = (score1 + score2 + score3 + score4 +score5) /5
+print("average score:",average )
